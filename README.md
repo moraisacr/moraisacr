@@ -1,5 +1,5 @@
 
-## Augusto é Cesar, estudante de programação e tecnologia!
+## Augusto Cesar é estudante de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/moraisacr">
