@@ -1,5 +1,8 @@
-
 ## Augusto Cesar é estudante de programação e tecnologia!
+<p align="center">
+  <img alt="Chacha" src="preview.gif" width="100%">
+</p>
+
 
 <div align="center">
   <a href="https://github.com/moraisacr">
