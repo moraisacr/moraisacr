@@ -1,4 +1,6 @@
 ## Augusto Cesar é estudante de programação e tecnologia!
+<br>
+
 <p align="center">
   <img alt="Chacha" src="preview.gif" width="100%">
 </p>
@@ -22,9 +24,14 @@
   
   
 </div>
-  
+
   ##
- 
+ <br>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=moraisacr&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET,UNKNOWN" />
+</p>
+<br>
+  <br>
 <div> 
     <a href="https://instagram.com/moraisacr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/moraisacr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
