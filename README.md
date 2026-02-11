@@ -3,7 +3,7 @@
 Sou desenvolvedor com foco em **Frontend moderno (Angular)**, interessado em **arquitetura, boas práticas e open source**.  
 Gosto de entender o *porquê* das coisas e melhorar documentação, DX e fluxos reais de desenvolvimento.
 
-Atualmente estudando e construindo projetos com **Angular, TypeScript e C#**, e contribuindo para projetos open source quando encontro problemas reais para resolver.
+Atualmente construo projetos com **Angular, TypeScript e C#**, e contribuo para projetos open source quando encontro problemas reais que valem a pena resolver.
 
 ---
 
@@ -19,9 +19,9 @@ Atualmente estudando e construindo projetos com **Angular, TypeScript e C#**, e 
 ## 🧠 Tecnologias
 
 **Principais**
-- Angular • TypeScript • JavaScript
-- HTML • CSS • SCSS
-- C# • Kotlin
+- Angular • TypeScript • JavaScript  
+- HTML • CSS • SCSS  
+- C# • Kotlin  
 
 **Também tenho contato**
 - C / C++
@@ -43,7 +43,6 @@ Atualmente estudando e construindo projetos com **Angular, TypeScript e C#**, e 
 <div align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=moraisacr&theme=onedark&column=5&margin-w=10&no-frame=true"/>
 </div>
-
 
 ---
 
