@@ -3,7 +3,7 @@
 Sou desenvolvedor com foco em **Frontend moderno (Angular)**, interessado em **arquitetura, boas práticas e open source**.  
 Gosto de entender o *porquê* das coisas e melhorar documentação, DX e fluxos reais de desenvolvimento.
 
-Atualmente estudando e construindo projetos com **Angular, TypeScript e Java**, e contribuindo para projetos open source quando encontro problemas reais para resolver.
+Atualmente estudando e construindo projetos com **Angular, TypeScript e C#**, e contribuindo para projetos open source quando encontro problemas reais para resolver.
 
 ---
 
@@ -21,7 +21,7 @@ Atualmente estudando e construindo projetos com **Angular, TypeScript e Java**, 
 **Principais**
 - Angular • TypeScript • JavaScript
 - HTML • CSS • SCSS
-- Java • Kotlin
+- C# • Kotlin
 
 **Também tenho contato**
 - C / C++
