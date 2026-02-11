@@ -32,8 +32,8 @@ Atualmente estudando e construindo projetos com **Angular, TypeScript e Java**, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraisacr&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisacr&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=moraisacr&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moraisacr&layout=compact&theme=dark&hide_border=true" height="160"/>
 </div>
 
 ---
@@ -41,8 +41,9 @@ Atualmente estudando e construindo projetos com **Angular, TypeScript e Java**, 
 ## 🏆 Destaques
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moraisacr&theme=onedark&column=5&margin-w=10&no-frame=true"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=moraisacr&theme=onedark&column=5&margin-w=10&no-frame=true"/>
 </div>
+
 
 ---
 
